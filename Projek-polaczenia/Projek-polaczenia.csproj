@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A383A99D-7668-40B1-903D-7508FC4DF1EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projek_polaczenia</RootNamespace>
+    <AssemblyName>Projek-polaczenia</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsynchronicznyServerTcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsynchronicznyServerTcp.Designer.cs">
+      <DependentUpon>AsynchronicznyServerTcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetDetect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NetDetect.Designer.cs">
+      <DependentUpon>NetDetect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Projekt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projekt.Designer.cs">
+      <DependentUpon>Projekt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KompletnaInformacjaNaTematPolaczen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KompletnaInformacjaNaTematPolaczen.Designer.cs">
+      <DependentUpon>KompletnaInformacjaNaTematPolaczen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PokarzIp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PokarzIp.Designer.cs">
+      <DependentUpon>PokarzIp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PolaczenieTcpKlient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PolaczenieTcpKlient.Designer.cs">
+      <DependentUpon>PolaczenieTcpKlient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PolaczenieTcpServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PolaczenieTcpServer.Designer.cs">
+      <DependentUpon>PolaczenieTcpServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SkanerLokalnychPortow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkanerLokalnychPortow.Designer.cs">
+      <DependentUpon>SkanerLokalnychPortow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkanerPortow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkanerPortow.Designer.cs">
+      <DependentUpon>SkanerPortow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TraceRout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraceRout.Designer.cs">
+      <DependentUpon>TraceRout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WyslijPing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WyslijPing.Designer.cs">
+      <DependentUpon>WyslijPing.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AsynchronicznyServerTcp.resx">
+      <DependentUpon>AsynchronicznyServerTcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NetDetect.resx">
+      <DependentUpon>NetDetect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projekt.resx">
+      <DependentUpon>Projekt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KompletnaInformacjaNaTematPolaczen.resx">
+      <DependentUpon>KompletnaInformacjaNaTematPolaczen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PokarzIp.resx">
+      <DependentUpon>PokarzIp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PolaczenieTcpKlient.resx">
+      <DependentUpon>PolaczenieTcpKlient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PolaczenieTcpServer.resx">
+      <DependentUpon>PolaczenieTcpServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SkanerLokalnychPortow.resx">
+      <DependentUpon>SkanerLokalnychPortow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkanerPortow.resx">
+      <DependentUpon>SkanerPortow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraceRout.resx">
+      <DependentUpon>TraceRout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WyslijPing.resx">
+      <DependentUpon>WyslijPing.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

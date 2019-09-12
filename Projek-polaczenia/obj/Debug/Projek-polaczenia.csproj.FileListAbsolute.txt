@@ -1,0 +1,58 @@
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe.config
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\bin\Debug\Projek-polaczenia.pdb
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.Form1.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.Properties.Resources.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek-polaczenia.exe
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek-polaczenia.pdb
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpServer.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpKlient.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.WyslijPing.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerLokalnychPortow.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerPortow.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PokarzIp.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.TraceRout.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.KompletnaInformacjaNaTematPolaczen.resources
+C:\Users\jakub\source\repos\Projek-polaczenia\Projek-polaczenia\obj\Debug\Projek_polaczenia.AsynchronicznyServerTcp.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe.config
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\bin\Debug\Projek-polaczenia.pdb
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.AsynchronicznyServerTcp.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.Form1.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.KompletnaInformacjaNaTematPolaczen.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PokarzIp.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpKlient.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpServer.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.Properties.Resources.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerLokalnychPortow.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerPortow.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.TraceRout.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek_polaczenia.WyslijPing.resources
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek-polaczenia.exe
+C:\Users\jakub\source\repos\Projek-polaczenia — kopia\Projek-polaczenia\obj\Debug\Projek-polaczenia.pdb
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe.config
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\bin\Debug\Projek-polaczenia.exe
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\bin\Debug\Projek-polaczenia.pdb
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek-polaczenia.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.AsynchronicznyServerTcp.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.KompletnaInformacjaNaTematPolaczen.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.PokarzIp.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpKlient.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.PolaczenieTcpServer.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.Properties.Resources.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerLokalnychPortow.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.SkanerPortow.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.TraceRout.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.WyslijPing.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek-polaczenia.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek-polaczenia.exe
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek-polaczenia.pdb
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.Projekt.resources
+C:\Users\Dawid\Desktop\Sk_projekt\ZAD\Projek-polaczenia\obj\Debug\Projek_polaczenia.NetDetect.resources
