@@ -28,7 +28,7 @@ First look at app
 
 ![ss](./ss/1.PNG)
 Details about connection
-
+<br/>
 ![ss](./ss/2.PNG)
 Adding a new subject. This app has little security :).
 ![ss](./ss/no.3.PNG)
