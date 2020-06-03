@@ -1,6 +1,5 @@
 # Conenction TCP/IP
-This project I made for university and I imporve it. It simulates us a few typical funtion. You can choose one subject and choosewith one off session you want to pick. There you have few levels for learning. So you just need to sign up for a course which you wanna and voi'la!
-App was writen using Angular 9. In Future I want to connect it with my API using Entity Framework and MVC model.
+This project I made for university and I imporve it. It simulates us a few typical network funtion. You can choose one option and see how it's working. App was writen using WPF. 
 ## Content
 1. [ Technologies. ](#tech)
 2. [ How to open. ](#open)
@@ -17,9 +16,10 @@ App was writen using Angular 9. In Future I want to connect it with my API using
 <a name="open"></a>
 ## 2. How to open a project?
 
-* First thing you need to do is downolad Angular Cli and newest version of node.js from https://nodejs.org/en/.
-* Next install npm server
-* Last thing go into catalog with app and use ng serve --open
+* Downolad the package  
+* Open solution 
+* CTRL+ F5
+* Or just go and open .exe file
 
 <a name="ss"></a>
 ## 3. Screenshoots
@@ -36,12 +36,12 @@ And also you can add a new session.
 ![ss](./ss/no.5.PNG)
 <a name="main"></a>
 ## 4. Main Features
-* Capabilities to sign into a lessons
-* Adding a new subject 
-* Adding a new session
-* Ability to login like admin or like normal user
+* Showing any information about connection 
+* Checking IP adress
+* Checkinh connection in others computers
+* TracRoute, NetDetect
 ## Status
-Project in progress
+Project is finished
 
 ## Contact
 
