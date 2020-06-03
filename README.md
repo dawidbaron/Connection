@@ -26,8 +26,8 @@ This project I made for university and I imporve it. It simulates us a few typic
 
 First look at app
 ![ss](./ss/1.PNG)
-Details about one subject
-![ss](./ss/no.2.PNG)
+Details about connection
+![ss](./ss/2.PNG)
 Adding a new subject. This app has little security :).
 ![ss](./ss/no.3.PNG)
 You can login into this.
