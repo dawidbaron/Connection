@@ -36,7 +36,7 @@ And few more functions.
 * Showing any information about connection 
 * Checking IP adress
 * Checkinh connection in others computers
-* TracRoute, NetDetect
+* TraceRoute, NetDetect
 ## Status
 Project is finished
 
