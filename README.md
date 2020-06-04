@@ -1,5 +1,5 @@
 # Conenction TCP/IP
-This project I made for university and I imporve it. It simulates us a few typical network funtion. You can choose one option and see how it's working. App was writen using WPF. 
+This project I made for university and I imporve it. It simulates us a few typical network funtion. You can choose one option and see how it's working. App was writen using Windows Form. 
 ## Content
 1. [ Technologies. ](#tech)
 2. [ How to open. ](#open)
@@ -26,7 +26,7 @@ This project I made for university and I imporve it. It simulates us a few typic
 
 First look at app
 
-![ss](./ss/1.PNG)
+![ss](./ss/1.PNG) <br/>
 Details about connection
 
 ![ss](./ss/2.PNG)
