@@ -35,7 +35,7 @@ And few more functions.
 ## 4. Main Features
 * Showing any information about connection 
 * Checking IP adress
-* Checkinh connection in others computers
+* Checking connection in others computers
 * TraceRoute, NetDetect
 ## Status
 Project is finished
