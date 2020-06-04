@@ -25,18 +25,12 @@ This project I made for university and I imporve it. It simulates us a few typic
 ## 3. Screenshoots
 
 First look at app
-
 ![ss](./ss/1.PNG) <br/>
-Details about connection
-
-![ss](./ss/2.PNG)
-<br/>
-Adding a new subject. This app has little security :).
-![ss](./ss/no.3.PNG)
-You can login into this.
-![ss](./ss/no.4.PNG)
-And also you can add a new session.
-![ss](./ss/no.5.PNG)
+Details about connections
+![ss](./ss/2.PNG) <br/>
+Local ports scanning
+![ss](./ss/no.3.PNG) <br/>
+And few more functions.
 <a name="main"></a>
 ## 4. Main Features
 * Showing any information about connection 
