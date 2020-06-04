@@ -24,12 +24,12 @@ This project I made for university and I imporve it. It simulates us a few typic
 <a name="ss"></a>
 ## 3. Screenshoots
 
-First look at app
+First look at app <br/>
 ![ss](./ss/1.PNG) <br/>
-Details about connections
+Details about connections <br/>
 ![ss](./ss/2.PNG) <br/>
-Local ports scanning
-![ss](./ss/no.3.PNG) <br/>
+Local ports scanning <br/>
+![ss](./ss/3.png) <br/>
 And few more functions.
 <a name="main"></a>
 ## 4. Main Features
