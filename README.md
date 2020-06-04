@@ -11,7 +11,7 @@ This project I made for university and I imporve it. It simulates us a few typic
 ## 1. Technologies:
 
 * C#
-* WPF
+* Windows Form
 
 <a name="open"></a>
 ## 2. How to open a project?
